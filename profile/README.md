@@ -1,3 +1,3 @@
-# <center> Kuri-X </center>
+# <center> Mahimai AI Solution </center>
 
->  Something extraordinary is cooking!
+> Enterprise Business Solutions with Azure 
