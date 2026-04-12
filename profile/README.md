@@ -1,7 +1,3 @@
-# <center> Mahimai Labs </center>
+# <center> Mahimai Voice Labs </center>
 
-We build small, focused open-source tools for developers working with AI and Python infrastructure.
-
-- Shipping tools we actually use
-- Keeping dependencies minimal
-- Making AI infrastructure less painful for solo developers and small teams
+A small team building Open Source Software that help large number of people to communicate. 
