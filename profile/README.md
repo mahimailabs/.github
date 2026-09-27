@@ -60,6 +60,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Rebuild the organization profile from live sources](https://github.com/mahimailabs/.github/pull/1)<br><sub>.github · Sep 2026 · @mahimairaja</sub>
+
 [docs: move to a five-page site at docs.openrtc.tech](https://github.com/mahimailabs/openrtc-runtime/pull/130)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
 
 [chore: vendor the impeccable design skill](https://github.com/mahimailabs/openrtc-runtime/pull/129)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
@@ -69,8 +71,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [fix: fail fast on caps/breaker in process mode; remove the RSS × N savings estimate](https://github.com/mahimailabs/openrtc-runtime/pull/127)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
 
 [feat!: remove pipecat support; target livekit-agents only](https://github.com/mahimailabs/openrtc-runtime/pull/126)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
-
-[fix: shed load when the coroutine event loop saturates; replace unmeasured density claims](https://github.com/mahimailabs/openrtc-runtime/pull/125)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
