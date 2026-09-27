@@ -1,7 +1,51 @@
-# <center> Welcome 👋  </center>
+<img src="https://raw.githubusercontent.com/mahimailabs/.github/main/profile/assets/banner.svg" alt="Mahimai: build voice products that keep working. From prototype to production." width="100%">
 
-Mahimai Labs is a AI Native initiative by a Individual - [Mahimai Raja J](https://github.com/mahimairaja)
+**Mahimai Labs builds open-source infrastructure for voice AI.** Cost tracking, multi-agent runtimes, long-term memory and open reference data for teams shipping voice agents on LiveKit and Pipecat.
 
-He have worked with various enterprises, ambitious founders, CEOs, CTOs, Government over 7 years building world class Voice Solutions. And have a special interests towards Speech AI and Linguistics. And the projects shared in this organizations are passionately and generously built and are used by many fellow Voice Builders everyday to increase productivity. 
+We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-He works really hard, managing both Client projects and Open Source project. If you could sponsor him even a small amount it would help him unblock a day and work more on Open Source. - [Sponsor Now](https://github.com/sponsors/mahimairaja)
+<!-- stats starts --><!-- stats ends -->
+
+### Products
+
+<!-- projects_products starts -->
+<!-- projects_products ends -->
+
+### Open data and references
+
+<!-- projects_data starts -->
+<!-- projects_data ends -->
+
+### Examples and starters
+
+<!-- projects_examples starts -->
+<!-- projects_examples ends -->
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### From the blog
+<!-- writing starts -->
+<!-- writing ends -->
+
+More on [mahimai.ca/blog](https://mahimai.ca/blog)
+</td>
+<td valign="top" width="50%">
+
+#### Recently merged
+<!-- merged starts -->
+<!-- merged ends -->
+
+Contributions are welcome in every repository.
+</td>
+</tr>
+</table>
+
+### Work with us
+
+Mahimai AI takes voice agents from prototype to production: architecture, latency and cost, telephony, and evaluation. [mahimai.ca](https://mahimai.ca) · [Book a call](https://cal.com/mahimairaja/consulting)
+
+If our open-source work saves your team time, you can support it through [GitHub Sponsors](https://github.com/sponsors/mahimairaja).
+
+<p align="center"><sub>This page rebuilds itself every six hours. <a href="https://github.com/mahimailabs/.github/blob/main/build_profile.py">How this works</a></sub></p>
