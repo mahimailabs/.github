@@ -12,7 +12,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
 | **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.26.1](https://pypi.org/project/voicegateway/)<br><sub>Sep 2026</sub> | ★ 51 |
-| **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.0](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 11 |
+| **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.1](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Aug 2026</sub> | ★ 30 |
 | **[envoic](https://github.com/mahimailabs/envoic)** | Finds and reports the Python virtual environments on a machine, so they stop piling up. | [0.3.1](https://pypi.org/project/envoic/)<br><sub>Jul 2026</sub> | ★ 6 |
@@ -60,17 +60,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[feat(brand): the split gauge mark](https://github.com/mahimailabs/voicegateway/pull/297)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
+[docs(readme): put the badges and cover in one palette, with a light variant](https://github.com/mahimailabs/openrtc-runtime/pull/149)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
 
-[feat(cli): add --port to the worker commands; stop leaking runtime flags to livekit](https://github.com/mahimailabs/openrtc-runtime/pull/146)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
+[refactor(security): remove the Wave 0 contracts for planned telemetry work](https://github.com/mahimailabs/voicegateway/pull/304)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 
-[chore(assets): remove the old brand artwork](https://github.com/mahimailabs/openrtc-runtime/pull/145)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
+[fix(tests): wait on conditions instead of fixed sleeps](https://github.com/mahimailabs/voicegateway/pull/305)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 
-[feat(site): bring the landing page into the repo as site/web, in the house style](https://github.com/mahimailabs/voicegateway/pull/294)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
+[ci: run the test suite in parallel with pytest-xdist](https://github.com/mahimailabs/voicegateway/pull/303)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 
-[docs(readme): a lean README that leads with the problem and invites contributors](https://github.com/mahimailabs/openrtc-runtime/pull/138)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
+[test: table-driven loadtest tests and a snapshot for the diagnostics report layout](https://github.com/mahimailabs/voicegateway/pull/302)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 
-[docs(claude): no AI attribution in commits, PRs or comments](https://github.com/mahimailabs/openrtc-runtime/pull/137)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
+[fix(storage): take the SQLite write lock up front for call-store writes](https://github.com/mahimailabs/voicegateway/pull/301)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
