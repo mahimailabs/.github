@@ -4,7 +4,7 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>109</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>110</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
@@ -34,7 +34,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 <!-- projects_examples starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[gpt-live-voice-agent](https://github.com/mahimailabs/gpt-live-voice-agent)** | OpenAI GPT-Live full-duplex voice agent on LiveKit, side by side with a classic STT-LLM-TTS cascade. Run both, interrupt both, see what breaks. | <sub>updated Sep 2026</sub> | ★ 1 |
+| **[gpt-live-voice-agent](https://github.com/mahimailabs/gpt-live-voice-agent)** | OpenAI GPT-Live full-duplex voice agent on LiveKit, side by side with a classic STT-LLM-TTS cascade. Run both, interrupt both, see what breaks. | <sub>updated Sep 2026</sub> | ★ 2 |
 | **[voicemem-demo](https://github.com/mahimailabs/voicemem-demo)** | A LiveKit voice agent that remembers you between calls, in ~100 lines. Built on livekit-plugins-voicemem. | <sub>updated Sep 2026</sub> | ★ 1 |
 | **[voicegateway-examples](https://github.com/mahimailabs/voicegateway-examples)** | Example projects that run on VoiceGateway. | <sub>updated Jun 2026</sub> | ★ 0 |
 <!-- projects_examples ends -->
