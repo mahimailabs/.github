@@ -4,14 +4,14 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>110</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>112</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.26.1](https://pypi.org/project/voicegateway/)<br><sub>Sep 2026</sub> | ★ 51 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.26.1](https://pypi.org/project/voicegateway/)<br><sub>Sep 2026</sub> | ★ 52 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.1](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Aug 2026</sub> | ★ 30 |
@@ -23,7 +23,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 <!-- projects_data starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voice-prices](https://github.com/mahimailabs/voice-prices)**<br><sub><a href="https://prices.mahimai.ca">prices.mahimai.ca</a></sub> | Open price database for voice AI APIs: STT, LLM, TTS, speech-to-speech and VAD. | [0.11.0](https://pypi.org/project/voice-prices/)<br><sub>Sep 2026</sub> | ★ 4 |
+| **[voice-prices](https://github.com/mahimailabs/voice-prices)**<br><sub><a href="https://prices.mahimai.ca">prices.mahimai.ca</a></sub> | Open price database for voice AI APIs: STT, LLM, TTS, speech-to-speech and VAD. | [0.11.0](https://pypi.org/project/voice-prices/)<br><sub>Sep 2026</sub> | ★ 5 |
 | **[voice-ai-skills](https://github.com/mahimailabs/voice-ai-skills)**<br><sub><a href="https://skills.mahimai.ca">skills.mahimai.ca</a></sub> | Vendor-neutral Agent Skills for people who build voice agents. Read by Claude Code, Cursor, Codex, Copilot, Gemini CLI. | <sub>updated Sep 2026</sub> | ★ 2 |
 | **[voice-latency](https://github.com/mahimailabs/voice-latency)** | A per-hop latency budget for voice agents: cascaded and realtime (speech-to-speech), plus framework overhead. The numbers are the point, PR better ones. | [0.1.1](https://pypi.org/project/voice-latency/)<br><sub>Aug 2026</sub> | ★ 1 |
 | **[handset-bench](https://github.com/mahimailabs/handset-bench)** | Benchmark text-to-speech on what survives a G.711 telephone line: 8kHz, mu-law, 300-3400 Hz, packet loss | [0.1.0](https://pypi.org/project/handset-bench/)<br><sub>Aug 2026</sub> | ★ 0 |
@@ -45,7 +45,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 
 #### From the blog
 <!-- writing starts -->
-[How your voice travels through WebRTC: Voice AI agents edition](https://mahimai.ca/blog/how-your-voice-travels-through-webrtc)<br><sub>Sep 2026</sub>
+[How your voice travels through WebRTC](https://mahimai.ca/blog/how-your-voice-travels-through-webrtc)<br><sub>Sep 2026</sub>
 
 [Your smoke run is lying to you](https://mahimai.ca/blog/your-smoke-run-is-lying-to-you)<br><sub>Aug 2026</sub>
 
