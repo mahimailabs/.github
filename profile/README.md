@@ -4,7 +4,7 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>112</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>113</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
@@ -23,7 +23,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 <!-- projects_data starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voice-prices](https://github.com/mahimailabs/voice-prices)**<br><sub><a href="https://prices.mahimai.ca">prices.mahimai.ca</a></sub> | Open price database for voice AI APIs: STT, LLM, TTS, speech-to-speech and VAD. | [0.11.0](https://pypi.org/project/voice-prices/)<br><sub>Sep 2026</sub> | ★ 5 |
+| **[voice-prices](https://github.com/mahimailabs/voice-prices)**<br><sub><a href="https://prices.mahimai.ca">prices.mahimai.ca</a></sub> | Open price database for voice AI APIs: STT, LLM, TTS, speech-to-speech and VAD. | [0.11.0](https://pypi.org/project/voice-prices/)<br><sub>Sep 2026</sub> | ★ 6 |
 | **[voice-ai-skills](https://github.com/mahimailabs/voice-ai-skills)**<br><sub><a href="https://skills.mahimai.ca">skills.mahimai.ca</a></sub> | Vendor-neutral Agent Skills for people who build voice agents. Read by Claude Code, Cursor, Codex, Copilot, Gemini CLI. | <sub>updated Sep 2026</sub> | ★ 2 |
 | **[voice-latency](https://github.com/mahimailabs/voice-latency)** | A per-hop latency budget for voice agents: cascaded and realtime (speech-to-speech), plus framework overhead. The numbers are the point, PR better ones. | [0.1.1](https://pypi.org/project/voice-latency/)<br><sub>Aug 2026</sub> | ★ 1 |
 | **[handset-bench](https://github.com/mahimailabs/handset-bench)** | Benchmark text-to-speech on what survives a G.711 telephone line: 8kHz, mu-law, 300-3400 Hz, packet loss | [0.1.0](https://pypi.org/project/handset-bench/)<br><sub>Aug 2026</sub> | ★ 0 |
