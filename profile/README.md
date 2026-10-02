@@ -45,6 +45,8 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 
 #### From the blog
 <!-- writing starts -->
+[WebRTC, on one page](https://mahimai.ca/blog/webrtc-one-pager)<br><sub>Oct 2026</sub>
+
 [How your voice travels through WebRTC](https://mahimai.ca/blog/how-your-voice-travels-through-webrtc)<br><sub>Sep 2026</sub>
 
 [Your smoke run is lying to you](https://mahimai.ca/blog/your-smoke-run-is-lying-to-you)<br><sub>Aug 2026</sub>
