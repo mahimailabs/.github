@@ -11,7 +11,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.26.1](https://pypi.org/project/voicegateway/)<br><sub>Sep 2026</sub> | ★ 51 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.0](https://pypi.org/project/voicegateway/)<br><sub>Oct 2026</sub> | ★ 51 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.1](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 10 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Aug 2026</sub> | ★ 29 |
@@ -45,6 +45,8 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 
 #### From the blog
 <!-- writing starts -->
+[GPT-Live with LiveKit: Beyond the First Working Call](https://mahimai.ca/blog/gpt-live-livekit-beyond-first-call)<br><sub>Oct 2026</sub>
+
 [WebRTC, on one page](https://mahimai.ca/blog/webrtc-one-pager)<br><sub>Oct 2026</sub>
 
 [How your voice travels through WebRTC](https://mahimai.ca/blog/how-your-voice-travels-through-webrtc)<br><sub>Sep 2026</sub>
@@ -52,8 +54,6 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 [Your smoke run is lying to you](https://mahimai.ca/blog/your-smoke-run-is-lying-to-you)<br><sub>Aug 2026</sub>
 
 [Building a phone line in PyTorch](https://mahimai.ca/blog/building-a-phone-line-in-pytorch)<br><sub>Aug 2026</sub>
-
-[The normaliser that scored itself](https://mahimai.ca/blog/the-normaliser-that-scored-itself)<br><sub>Aug 2026</sub>
 <!-- writing ends -->
 
 More on [mahimai.ca/blog](https://mahimai.ca/blog)
@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[feat: meter GPT-Live duration and realtime audio separately](https://github.com/mahimailabs/voicegateway/pull/311)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [feat: add private call summaries and normalize usage metering](https://github.com/mahimailabs/voicegateway/pull/310)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [docs(readme): put the badges and cover in one palette, with a light variant](https://github.com/mahimailabs/openrtc-runtime/pull/149)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [fix(tests): wait on conditions instead of fixed sleeps](https://github.com/mahimailabs/voicegateway/pull/305)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 
 [ci: run the test suite in parallel with pytest-xdist](https://github.com/mahimailabs/voicegateway/pull/303)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
-
-[test: table-driven loadtest tests and a snapshot for the diagnostics report layout](https://github.com/mahimailabs/voicegateway/pull/302)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
