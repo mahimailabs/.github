@@ -62,6 +62,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[feat(prices): optional FX conversion at set time, with provenance](https://github.com/mahimailabs/voicegateway/pull/282)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[chore(license): adopt open-core license with ee/ Enterprise Edition](https://github.com/mahimailabs/voicegateway/pull/313)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [feat: let a pool skip the multilingual turn detector](https://github.com/mahimailabs/openrtc-runtime/pull/152)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
 
 [feat: per-agent start options and a pre-start hook](https://github.com/mahimailabs/openrtc-runtime/pull/151)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
@@ -69,10 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [feat: meter GPT-Live duration and realtime audio separately](https://github.com/mahimailabs/voicegateway/pull/311)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [feat: add private call summaries and normalize usage metering](https://github.com/mahimailabs/voicegateway/pull/310)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[docs(readme): put the badges and cover in one palette, with a light variant](https://github.com/mahimailabs/openrtc-runtime/pull/149)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
-
-[refactor(security): remove the Wave 0 contracts for planned telemetry work](https://github.com/mahimailabs/voicegateway/pull/304)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
