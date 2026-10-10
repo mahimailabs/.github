@@ -62,6 +62,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[feat: let a pool skip the multilingual turn detector](https://github.com/mahimailabs/openrtc-runtime/pull/152)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
+
+[feat: per-agent start options and a pre-start hook](https://github.com/mahimailabs/openrtc-runtime/pull/151)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
+
 [feat: meter GPT-Live duration and realtime audio separately](https://github.com/mahimailabs/voicegateway/pull/311)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [feat: add private call summaries and normalize usage metering](https://github.com/mahimailabs/voicegateway/pull/310)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -69,10 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [docs(readme): put the badges and cover in one palette, with a light variant](https://github.com/mahimailabs/openrtc-runtime/pull/149)<br><sub>openrtc-runtime · Sep 2026 · @mahimairaja</sub>
 
 [refactor(security): remove the Wave 0 contracts for planned telemetry work](https://github.com/mahimailabs/voicegateway/pull/304)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
-
-[fix(tests): wait on conditions instead of fixed sleeps](https://github.com/mahimailabs/voicegateway/pull/305)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
-
-[ci: run the test suite in parallel with pytest-xdist](https://github.com/mahimailabs/voicegateway/pull/303)<br><sub>voicegateway · Sep 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
