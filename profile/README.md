@@ -4,14 +4,14 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>113</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>114</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.0](https://pypi.org/project/voicegateway/)<br><sub>Oct 2026</sub> | ★ 52 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.0](https://pypi.org/project/voicegateway/)<br><sub>Oct 2026</sub> | ★ 53 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.1](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 30 |
@@ -45,9 +45,9 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 
 #### From the blog
 <!-- writing starts -->
-[Bilingual Voice Agent: When to Switch Languages](https://mahimai.ca/blog/bilingual-voice-agent-language-switching)<br><sub>Oct 2026</sub>
-
 [Build a Real-Time AI Sales Copilot with LiveKit](https://mahimai.ca/blog/ai-sales-copilot-livekit)<br><sub>Oct 2026</sub>
+
+[Bilingual Voice Agent: When to Switch Languages](https://mahimai.ca/blog/bilingual-voice-agent-language-switching)<br><sub>Oct 2026</sub>
 
 [Config-Driven Voice Agents: Swap Prompts and Tools Mid-Call](https://mahimai.ca/blog/config-driven-voice-agents-live-updates)<br><sub>Oct 2026</sub>
 
@@ -62,6 +62,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[test: trim the suite to tests that guard behaviour, and make it 3x faster](https://github.com/mahimailabs/voicegateway/pull/316)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[chore: sanitize dead code and cut unused features before V1](https://github.com/mahimailabs/voicegateway/pull/315)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [feat(prices): optional FX conversion at set time, with provenance](https://github.com/mahimailabs/voicegateway/pull/282)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [chore(license): adopt open-core license with ee/ Enterprise Edition](https://github.com/mahimailabs/voicegateway/pull/313)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -69,10 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [feat: let a pool skip the multilingual turn detector](https://github.com/mahimailabs/openrtc-runtime/pull/152)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
 
 [feat: per-agent start options and a pre-start hook](https://github.com/mahimailabs/openrtc-runtime/pull/151)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
-
-[feat: meter GPT-Live duration and realtime audio separately](https://github.com/mahimailabs/voicegateway/pull/311)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[feat: add private call summaries and normalize usage metering](https://github.com/mahimailabs/voicegateway/pull/310)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
