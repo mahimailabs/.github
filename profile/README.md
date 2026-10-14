@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[docs: add roadmap and a guide for adding platforms](https://github.com/mahimailabs/livekit-coldstart-bench/pull/4)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
+
+[fix: correct the Modal cold-start step breakdown](https://github.com/mahimailabs/livekit-coldstart-bench/pull/3)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
+
+[Benchmark harness, round 1 and round 2 results, README](https://github.com/mahimailabs/livekit-coldstart-bench/pull/2)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
+
+[docs: README with results, hero GIF and diagrams](https://github.com/mahimailabs/livekit-coldstart-bench/pull/1)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
+
 [test: trim the suite to tests that guard behaviour, and make it 3x faster](https://github.com/mahimailabs/voicegateway/pull/316)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [chore: sanitize dead code and cut unused features before V1](https://github.com/mahimailabs/voicegateway/pull/315)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[feat(prices): optional FX conversion at set time, with provenance](https://github.com/mahimailabs/voicegateway/pull/282)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[chore(license): adopt open-core license with ee/ Enterprise Edition](https://github.com/mahimailabs/voicegateway/pull/313)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[feat: let a pool skip the multilingual turn detector](https://github.com/mahimailabs/openrtc-runtime/pull/152)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
-
-[feat: per-agent start options and a pre-start hook](https://github.com/mahimailabs/openrtc-runtime/pull/151)<br><sub>openrtc-runtime · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
