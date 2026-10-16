@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Consolidate contributor docs and map V1 Connect execution](https://github.com/mahimailabs/voicegateway/pull/331)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Add Makefile targets dev/test/lint for dashboard (#326)](https://github.com/mahimailabs/voicegateway/pull/329)<br><sub>voicegateway · Oct 2026 · @krshnndu</sub>
+
+[Consolidate the landing page in the main repository](https://github.com/mahimailabs/voicegateway/pull/330)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Feat/phase01 console](https://github.com/mahimailabs/voicegateway/pull/328)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Present the V1 console with a visual README and teaser](https://github.com/mahimailabs/voicegateway/pull/327)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [chore: set up the repo for AI coding agents](https://github.com/mahimailabs/voicegateway/pull/314)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[feat: Phase 1 console, deep links, embeds and the V1 docs](https://github.com/mahimailabs/voicegateway/pull/319)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[docs: add roadmap and a guide for adding platforms](https://github.com/mahimailabs/livekit-coldstart-bench/pull/4)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
-
-[fix: correct the Modal cold-start step breakdown](https://github.com/mahimailabs/livekit-coldstart-bench/pull/3)<br><sub>livekit-coldstart-bench · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
