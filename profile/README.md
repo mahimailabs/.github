@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[Read Live through getMediaServer and open rooms' calls by room SID (#323, part 4b-3)](https://github.com/mahimailabs/voicegateway/pull/354)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Serve the SIP read from live LiveKit configuration (phase 05b)](https://github.com/mahimailabs/voicegateway/pull/368)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[State at-least-once alert delivery for retries after a timeout](https://github.com/mahimailabs/voicegateway/pull/353)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Serve the media server read from live LiveKit samples (phase 05a)](https://github.com/mahimailabs/voicegateway/pull/365)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Add a hand-drawn components diagram to the README](https://github.com/mahimailabs/voicegateway/pull/352)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Spec phase 06a: sign in with built-in accounts](https://github.com/mahimailabs/voicegateway/pull/377)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Specify alert rule behaviour: firing, grouping, recovery, delivery](https://github.com/mahimailabs/voicegateway/pull/341)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Make toast Undo clickable over Settings and tidy No such project](https://github.com/mahimailabs/voicegateway/pull/375)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Read the Live wire and stage chain through getCallStats (#323, part 4b-2)](https://github.com/mahimailabs/voicegateway/pull/351)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Propose decision 0027: sign-in and access](https://github.com/mahimailabs/voicegateway/pull/372)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Read Overview through getCallStats (#323, part 4b-1)](https://github.com/mahimailabs/voicegateway/pull/349)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Mark standing issues apart from dated ones in a range (#323)](https://github.com/mahimailabs/voicegateway/pull/363)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
