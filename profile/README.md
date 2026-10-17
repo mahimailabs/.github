@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Read Live through getMediaServer and open rooms' calls by room SID (#323, part 4b-3)](https://github.com/mahimailabs/voicegateway/pull/354)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[State at-least-once alert delivery for retries after a timeout](https://github.com/mahimailabs/voicegateway/pull/353)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Add a hand-drawn components diagram to the README](https://github.com/mahimailabs/voicegateway/pull/352)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Specify alert rule behaviour: firing, grouping, recovery, delivery](https://github.com/mahimailabs/voicegateway/pull/341)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Read the Live wire and stage chain through getCallStats (#323, part 4b-2)](https://github.com/mahimailabs/voicegateway/pull/351)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Read Overview through getCallStats (#323, part 4b-1)](https://github.com/mahimailabs/voicegateway/pull/349)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Read issues and alerts through the mock API (#323, part 4a)](https://github.com/mahimailabs/voicegateway/pull/348)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Read agents, capacity and the project snapshot through the mock API (#323, part 3b)](https://github.com/mahimailabs/voicegateway/pull/347)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Read the media server through the mock API (#323, part 3a)](https://github.com/mahimailabs/voicegateway/pull/346)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Read Egress, Ingress and SIP through the mock API (#323, part 2)](https://github.com/mahimailabs/voicegateway/pull/344)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Serve calls through a mock API and fetch them on the Calls page (#323, part 1)](https://github.com/mahimailabs/voicegateway/pull/343)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
