@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[Jitter sink retries and bound scraper fan-out with errgroup](https://github.com/mahimailabs/voicegateway/pull/391)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Let make up pull the published image instead of building](https://github.com/mahimailabs/voicegateway/pull/406)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Use LiveKit constants and shared helpers instead of hand-written copies](https://github.com/mahimailabs/voicegateway/pull/389)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Measure how the docs are used](https://github.com/mahimailabs/voicegateway/pull/405)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Strip secrets from stored egress and ingress webhooks](https://github.com/mahimailabs/voicegateway/pull/386)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Expire raw telemetry after 90 days](https://github.com/mahimailabs/voicegateway/pull/401)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Serve the agent workers and Cloud agents reads from live samples (phase 05d)](https://github.com/mahimailabs/voicegateway/pull/385)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[fix: guard worker endpoint dials against SSRF](https://github.com/mahimailabs/voicegateway/pull/397)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Spec phase 06c: project API keys](https://github.com/mahimailabs/voicegateway/pull/384)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Rebuild the docs site around the V1 product](https://github.com/mahimailabs/voicegateway/pull/396)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Overview from storage (phase 04e)](https://github.com/mahimailabs/voicegateway/pull/383)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[ci: publish the Go image to GHCR on release tags](https://github.com/mahimailabs/voicegateway/pull/402)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
