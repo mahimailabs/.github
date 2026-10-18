@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[fix: sign-in audit #388](https://github.com/mahimailabs/voicegateway/pull/404)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Let make up pull the published image instead of building](https://github.com/mahimailabs/voicegateway/pull/406)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Measure how the docs are used](https://github.com/mahimailabs/voicegateway/pull/405)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [fix: guard worker endpoint dials against SSRF](https://github.com/mahimailabs/voicegateway/pull/397)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Rebuild the docs site around the V1 product](https://github.com/mahimailabs/voicegateway/pull/396)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[ci: publish the Go image to GHCR on release tags](https://github.com/mahimailabs/voicegateway/pull/402)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
