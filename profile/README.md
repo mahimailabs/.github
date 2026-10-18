@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[Serve the SIP read from live LiveKit configuration (phase 05b)](https://github.com/mahimailabs/voicegateway/pull/368)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Jitter sink retries and bound scraper fan-out with errgroup](https://github.com/mahimailabs/voicegateway/pull/391)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Serve the media server read from live LiveKit samples (phase 05a)](https://github.com/mahimailabs/voicegateway/pull/365)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Use LiveKit constants and shared helpers instead of hand-written copies](https://github.com/mahimailabs/voicegateway/pull/389)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Spec phase 06a: sign in with built-in accounts](https://github.com/mahimailabs/voicegateway/pull/377)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Strip secrets from stored egress and ingress webhooks](https://github.com/mahimailabs/voicegateway/pull/386)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Make toast Undo clickable over Settings and tidy No such project](https://github.com/mahimailabs/voicegateway/pull/375)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Serve the agent workers and Cloud agents reads from live samples (phase 05d)](https://github.com/mahimailabs/voicegateway/pull/385)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Propose decision 0027: sign-in and access](https://github.com/mahimailabs/voicegateway/pull/372)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Spec phase 06c: project API keys](https://github.com/mahimailabs/voicegateway/pull/384)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Mark standing issues apart from dated ones in a range (#323)](https://github.com/mahimailabs/voicegateway/pull/363)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Overview from storage (phase 04e)](https://github.com/mahimailabs/voicegateway/pull/383)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
