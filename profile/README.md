@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[fix: sign-in audit #388](https://github.com/mahimailabs/voicegateway/pull/404)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[chore: retire the old Python release (phase 0)](https://github.com/mahimailabs/voicegateway/pull/408)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Let make up pull the published image instead of building](https://github.com/mahimailabs/voicegateway/pull/406)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[fix: guard worker LiveKit connections on Cloud](https://github.com/mahimailabs/voicegateway/pull/420)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Measure how the docs are used](https://github.com/mahimailabs/voicegateway/pull/405)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[fix(invites): preserve delivery outcomes across retries](https://github.com/mahimailabs/voicegateway/pull/421)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Expire raw telemetry after 90 days](https://github.com/mahimailabs/voicegateway/pull/401)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[feat: add LiveKit projects from the console](https://github.com/mahimailabs/voicegateway/pull/419)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[fix: guard worker endpoint dials against SSRF](https://github.com/mahimailabs/voicegateway/pull/397)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Move the marketing site to a private repository](https://github.com/mahimailabs/voicegateway/pull/413)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Rebuild the docs site around the V1 product](https://github.com/mahimailabs/voicegateway/pull/396)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Add instance organisation provisioning and usage API](https://github.com/mahimailabs/voicegateway/pull/417)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
