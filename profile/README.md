@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[chore: retire the old Python release (phase 0)](https://github.com/mahimailabs/voicegateway/pull/408)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Use the corrected preview.5 installer release](https://github.com/mahimailabs/voicegateway/pull/427)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[fix: guard worker LiveKit connections on Cloud](https://github.com/mahimailabs/voicegateway/pull/420)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Align the installer release and wait for ClickHouse initialization](https://github.com/mahimailabs/voicegateway/pull/426)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[fix(invites): preserve delivery outcomes across retries](https://github.com/mahimailabs/voicegateway/pull/421)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[feat: enforce organisation telemetry minute allowances](https://github.com/mahimailabs/voicegateway/pull/422)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[feat: add LiveKit projects from the console](https://github.com/mahimailabs/voicegateway/pull/419)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[fix: isolate LiveKit ingestion by organisation and project](https://github.com/mahimailabs/voicegateway/pull/425)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Move the marketing site to a private repository](https://github.com/mahimailabs/voicegateway/pull/413)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[fix: require the address guard on shared instances](https://github.com/mahimailabs/voicegateway/pull/424)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Add instance organisation provisioning and usage API](https://github.com/mahimailabs/voicegateway/pull/417)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[feat: install the Go stack from the public installer](https://github.com/mahimailabs/voicegateway/pull/423)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
