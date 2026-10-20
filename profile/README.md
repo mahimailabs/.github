@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
-[Use the corrected preview.5 installer release](https://github.com/mahimailabs/voicegateway/pull/427)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Show each project’s own connection in organisation settings](https://github.com/mahimailabs/voicegateway/pull/434)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[Align the installer release and wait for ClickHouse initialization](https://github.com/mahimailabs/voicegateway/pull/426)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Persist account profile settings with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/433)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[feat: enforce organisation telemetry minute allowances](https://github.com/mahimailabs/voicegateway/pull/422)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Persist project thresholds and apply them to call diagnosis](https://github.com/mahimailabs/voicegateway/pull/432)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[fix: isolate LiveKit ingestion by organisation and project](https://github.com/mahimailabs/voicegateway/pull/425)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Collect scoped SFU and worker container resources](https://github.com/mahimailabs/voicegateway/pull/431)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[fix: require the address guard on shared instances](https://github.com/mahimailabs/voicegateway/pull/424)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Stream project-scoped worker updates to the console](https://github.com/mahimailabs/voicegateway/pull/430)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
-[feat: install the Go stack from the public installer](https://github.com/mahimailabs/voicegateway/pull/423)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+[Refresh live SFU and worker observations with stale-data handling](https://github.com/mahimailabs/voicegateway/pull/429)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
