@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Persist scoped call tags and archives with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/435)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Show each project’s own connection in organisation settings](https://github.com/mahimailabs/voicegateway/pull/434)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Persist account profile settings with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/433)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Collect scoped SFU and worker container resources](https://github.com/mahimailabs/voicegateway/pull/431)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Stream project-scoped worker updates to the console](https://github.com/mahimailabs/voicegateway/pull/430)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Refresh live SFU and worker observations with stale-data handling](https://github.com/mahimailabs/voicegateway/pull/429)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
