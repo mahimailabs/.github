@@ -4,7 +4,7 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>115</b> stars · <b>6</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>115</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
@@ -13,7 +13,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 |---|---|---|---|
 | **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.0](https://pypi.org/project/voicegateway/)<br><sub>Oct 2026</sub> | ★ 54 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.20.1](https://pypi.org/project/openrtc/)<br><sub>Sep 2026</sub> | ★ 11 |
-| **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | <sub>updated Sep 2026</sub> | ★ 2 |
+| **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 30 |
 | **[envoic](https://github.com/mahimailabs/envoic)** | Finds and reports the Python virtual environments on a machine, so they stop piling up. | [0.3.1](https://pypi.org/project/envoic/)<br><sub>Jul 2026</sub> | ★ 6 |
 <!-- projects_products ends -->
@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Ship secure branded embeds: signed embed tokens and five widgets](https://github.com/mahimailabs/voicegateway/pull/441)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Check the Python SDK and its example in CI](https://github.com/mahimailabs/voicegateway/pull/444)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Publish the Python SDK from a tag, as 1.0.0rc6](https://github.com/mahimailabs/voicegateway/pull/443)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Add the Python SDK: attach() with a language-neutral wire contract](https://github.com/mahimailabs/voicegateway/pull/442)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Add first-call setup: example agent and connection check](https://github.com/mahimailabs/voicegateway/pull/438)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Serve an MCP server for coding agents](https://github.com/mahimailabs/voicegateway/pull/439)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Read escaped issue ids in the issue metadata routes](https://github.com/mahimailabs/voicegateway/pull/440)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Store and play opt-in call recordings (phase 07a)](https://github.com/mahimailabs/voicegateway/pull/437)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Persist issue evidence and scoped workflows](https://github.com/mahimailabs/voicegateway/pull/436)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Persist scoped call tags and archives with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/435)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Show each project’s own connection in organisation settings](https://github.com/mahimailabs/voicegateway/pull/434)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
