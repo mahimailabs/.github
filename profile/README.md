@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Serve an MCP server for coding agents](https://github.com/mahimailabs/voicegateway/pull/439)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Read escaped issue ids in the issue metadata routes](https://github.com/mahimailabs/voicegateway/pull/440)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Store and play opt-in call recordings (phase 07a)](https://github.com/mahimailabs/voicegateway/pull/437)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Persist issue evidence and scoped workflows](https://github.com/mahimailabs/voicegateway/pull/436)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Persist scoped call tags and archives with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/435)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Show each project’s own connection in organisation settings](https://github.com/mahimailabs/voicegateway/pull/434)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Persist account profile settings with revision-safe updates](https://github.com/mahimailabs/voicegateway/pull/433)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Persist project thresholds and apply them to call diagnosis](https://github.com/mahimailabs/voicegateway/pull/432)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Collect scoped SFU and worker container resources](https://github.com/mahimailabs/voicegateway/pull/431)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Stream project-scoped worker updates to the console](https://github.com/mahimailabs/voicegateway/pull/430)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
