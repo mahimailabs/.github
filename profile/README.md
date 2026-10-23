@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Sign in with Google, GitHub or Auth0 (phase 06h, decisions 0035, 0036)](https://github.com/mahimailabs/voicegateway/pull/449)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Redesign the console sign-in pages](https://github.com/mahimailabs/voicegateway/pull/447)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Decide and spec Google and GitHub sign-in](https://github.com/mahimailabs/voicegateway/pull/448)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Fit sign-in copy for Cloud customers](https://github.com/mahimailabs/voicegateway/pull/446)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Guide Cloud users from LiveKit keys to a first profiled call](https://github.com/mahimailabs/voicegateway/pull/445)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Ship secure branded embeds: signed embed tokens and five widgets](https://github.com/mahimailabs/voicegateway/pull/441)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Check the Python SDK and its example in CI](https://github.com/mahimailabs/voicegateway/pull/444)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Publish the Python SDK from a tag, as 1.0.0rc6](https://github.com/mahimailabs/voicegateway/pull/443)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Add the Python SDK: attach() with a language-neutral wire contract](https://github.com/mahimailabs/voicegateway/pull/442)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
