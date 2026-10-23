@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Fit sign-in copy for Cloud customers](https://github.com/mahimailabs/voicegateway/pull/446)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Guide Cloud users from LiveKit keys to a first profiled call](https://github.com/mahimailabs/voicegateway/pull/445)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Ship secure branded embeds: signed embed tokens and five widgets](https://github.com/mahimailabs/voicegateway/pull/441)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Publish the Python SDK from a tag, as 1.0.0rc6](https://github.com/mahimailabs/voicegateway/pull/443)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Add the Python SDK: attach() with a language-neutral wire contract](https://github.com/mahimailabs/voicegateway/pull/442)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Add first-call setup: example agent and connection check](https://github.com/mahimailabs/voicegateway/pull/438)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
