@@ -62,6 +62,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Share one set of Intl formatters across the console](https://github.com/mahimailabs/voicegateway/pull/415)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[docs: refresh the README and console docs for the V1 preview](https://github.com/mahimailabs/voicegateway/pull/451)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Show each linked sign-in provider once in Settings](https://github.com/mahimailabs/voicegateway/pull/450)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Sign in with Google, GitHub or Auth0 (phase 06h, decisions 0035, 0036)](https://github.com/mahimailabs/voicegateway/pull/449)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -69,10 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Redesign the console sign-in pages](https://github.com/mahimailabs/voicegateway/pull/447)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Decide and spec Google and GitHub sign-in](https://github.com/mahimailabs/voicegateway/pull/448)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Fit sign-in copy for Cloud customers](https://github.com/mahimailabs/voicegateway/pull/446)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Guide Cloud users from LiveKit keys to a first profiled call](https://github.com/mahimailabs/voicegateway/pull/445)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
