@@ -24,7 +24,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
 | **[voice-prices](https://github.com/mahimailabs/voice-prices)**<br><sub><a href="https://prices.mahimai.ca">prices.mahimai.ca</a></sub> | Open price database for voice AI APIs: STT, LLM, TTS, speech-to-speech and VAD. | [0.11.0](https://pypi.org/project/voice-prices/)<br><sub>Sep 2026</sub> | ★ 6 |
-| **[voice-ai-skills](https://github.com/mahimailabs/voice-ai-skills)**<br><sub><a href="https://skills.mahimai.ca">skills.mahimai.ca</a></sub> | Vendor-neutral Agent Skills for people who build voice agents. Read by Claude Code, Cursor, Codex, Copilot, Gemini CLI. | <sub>updated Sep 2026</sub> | ★ 2 |
+| **[voice-ai-skills](https://github.com/mahimailabs/voice-ai-skills)**<br><sub><a href="https://skills.mahimai.ca">skills.mahimai.ca</a></sub> | Vendor-neutral Agent Skills for people who build voice agents. Read by Claude Code, Cursor, Codex, Copilot, Gemini CLI. | <sub>updated Oct 2026</sub> | ★ 2 |
 | **[voice-latency](https://github.com/mahimailabs/voice-latency)** | A per-hop latency budget for voice agents: cascaded and realtime (speech-to-speech), plus framework overhead. The numbers are the point, PR better ones. | [0.1.1](https://pypi.org/project/voice-latency/)<br><sub>Aug 2026</sub> | ★ 1 |
 | **[handset-bench](https://github.com/mahimailabs/handset-bench)** | Benchmark text-to-speech on what survives a G.711 telephone line: 8kHz, mu-law, 300-3400 Hz, packet loss | [0.1.0](https://pypi.org/project/handset-bench/)<br><sub>Aug 2026</sub> | ★ 0 |
 <!-- projects_data ends -->
@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Time the install on macOS](https://github.com/mahimailabs/voicegateway/pull/459)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Add the 1,000-call load test (#320)](https://github.com/mahimailabs/voicegateway/pull/456)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Finish the console docs, time the install, and fix two paper cuts](https://github.com/mahimailabs/voicegateway/pull/455)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Mark issue workflows complete after a clean full run](https://github.com/mahimailabs/voicegateway/pull/453)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Share one set of Intl formatters across the console](https://github.com/mahimailabs/voicegateway/pull/415)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[docs: refresh the README and console docs for the V1 preview](https://github.com/mahimailabs/voicegateway/pull/451)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
