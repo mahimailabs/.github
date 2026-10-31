@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Add the capacity test runner (decision 0022)](https://github.com/mahimailabs/voicegateway/pull/458)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Send alerts to Slack, Teams, Discord, PagerDuty and Opsgenie](https://github.com/mahimailabs/voicegateway/pull/457)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
+[Run the SFU prober on AWS instead of Fly](https://github.com/mahimailabs/voicegateway/pull/460)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
+
 [Time the install on macOS](https://github.com/mahimailabs/voicegateway/pull/459)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Add the 1,000-call load test (#320)](https://github.com/mahimailabs/voicegateway/pull/456)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Finish the console docs, time the install, and fix two paper cuts](https://github.com/mahimailabs/voicegateway/pull/455)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Send alerts to email and signed webhooks](https://github.com/mahimailabs/voicegateway/pull/454)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Mark issue workflows complete after a clean full run](https://github.com/mahimailabs/voicegateway/pull/453)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Share one set of Intl formatters across the console](https://github.com/mahimailabs/voicegateway/pull/415)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
