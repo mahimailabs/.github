@@ -62,6 +62,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[feat: build each call's agent with an agent factory](https://github.com/mahimailabs/openrtc-runtime/pull/153)<br><sub>openrtc-runtime · Nov 2026 · @mahimairaja</sub>
+
+[Line-diagram covers for every post, light and dark](https://github.com/mahimailabs/mahimai.blogs/pull/47)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
+
 [Add the capacity test runner (decision 0022)](https://github.com/mahimailabs/voicegateway/pull/458)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Send alerts to Slack, Teams, Discord, PagerDuty and Opsgenie](https://github.com/mahimailabs/voicegateway/pull/457)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
@@ -69,10 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Run the SFU prober on AWS instead of Fly](https://github.com/mahimailabs/voicegateway/pull/460)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 
 [Time the install on macOS](https://github.com/mahimailabs/voicegateway/pull/459)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Add the 1,000-call load test (#320)](https://github.com/mahimailabs/voicegateway/pull/456)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Finish the console docs, time the install, and fix two paper cuts](https://github.com/mahimailabs/voicegateway/pull/455)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
