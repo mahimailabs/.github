@@ -11,7 +11,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.0](https://pypi.org/project/voicegateway/)<br><sub>Oct 2026</sub> | ★ 54 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.1](https://pypi.org/project/voicegateway/)<br><sub>Nov 2026</sub> | ★ 54 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.21.0](https://pypi.org/project/openrtc/)<br><sub>Nov 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 30 |
@@ -62,17 +62,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Report errors and request timings to Sentry, off by default](https://github.com/mahimailabs/voicegateway/pull/465)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[Test the self-hosting guide end to end on Linux and macOS](https://github.com/mahimailabs/voicegateway/pull/464)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[Keep the capacity dialog's watched run in the URL](https://github.com/mahimailabs/voicegateway/pull/463)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[Run the SFU coordinator from the prober stack](https://github.com/mahimailabs/voicegateway/pull/462)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[Send the livekit-cli version header on Cloud agents reads](https://github.com/mahimailabs/voicegateway/pull/461)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [docs(changelog): clear Unreleased after v0.21.0](https://github.com/mahimailabs/openrtc-runtime/pull/154)<br><sub>openrtc-runtime · Nov 2026 · @mahimairaja</sub>
-
-[feat: build each call's agent with an agent factory](https://github.com/mahimailabs/openrtc-runtime/pull/153)<br><sub>openrtc-runtime · Nov 2026 · @mahimairaja</sub>
-
-[Line-diagram covers for every post, light and dark](https://github.com/mahimailabs/mahimai.blogs/pull/47)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
-
-[Add the capacity test runner (decision 0022)](https://github.com/mahimailabs/voicegateway/pull/458)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Send alerts to Slack, Teams, Discord, PagerDuty and Opsgenie](https://github.com/mahimailabs/voicegateway/pull/457)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
-
-[Run the SFU prober on AWS instead of Fly](https://github.com/mahimailabs/voicegateway/pull/460)<br><sub>voicegateway · Oct 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
