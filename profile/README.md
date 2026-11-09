@@ -4,17 +4,17 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>121</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>123</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.1](https://pypi.org/project/voicegateway/)<br><sub>Nov 2026</sub> | ★ 57 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.1](https://pypi.org/project/voicegateway/)<br><sub>Nov 2026</sub> | ★ 58 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.21.0](https://pypi.org/project/openrtc/)<br><sub>Nov 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
-| **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 30 |
+| **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 31 |
 | **[envoic](https://github.com/mahimailabs/envoic)** | Finds and reports the Python virtual environments on a machine, so they stop piling up. | [0.3.1](https://pypi.org/project/envoic/)<br><sub>Jul 2026</sub> | ★ 6 |
 <!-- projects_products ends -->
 
@@ -62,6 +62,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Name Sentry transactions by API route and upload console source maps](https://github.com/mahimailabs/voicegateway/pull/468)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [Let a verified email with no account accept its pending invitations (decision 0040)](https://github.com/mahimailabs/voicegateway/pull/467)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Add opt-in PostHog product analytics](https://github.com/mahimailabs/voicegateway/pull/466)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
@@ -71,8 +73,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Test the self-hosting guide end to end on Linux and macOS](https://github.com/mahimailabs/voicegateway/pull/464)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Keep the capacity dialog's watched run in the URL](https://github.com/mahimailabs/voicegateway/pull/463)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Run the SFU coordinator from the prober stack](https://github.com/mahimailabs/voicegateway/pull/462)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
