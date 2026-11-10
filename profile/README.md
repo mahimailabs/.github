@@ -45,15 +45,7 @@ We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here 
 
 #### From the blog
 <!-- writing starts -->
-[A LiveKit Voice Agent That Runs With the Wi-Fi Off](https://mahimai.ca/blog/local-livekit-voice-agent-offline)<br><sub>Oct 2026</sub>
-
-[Build a Real-Time AI Sales Copilot with LiveKit](https://mahimai.ca/blog/ai-sales-copilot-livekit)<br><sub>Oct 2026</sub>
-
-[Bilingual Voice Agent: When to Switch Languages](https://mahimai.ca/blog/bilingual-voice-agent-language-switching)<br><sub>Oct 2026</sub>
-
-[Config-Driven Voice Agents: Swap Prompts and Tools Mid-Call](https://mahimai.ca/blog/config-driven-voice-agents-live-updates)<br><sub>Oct 2026</sub>
-
-[Full Duplex vs Cascade Voice Agents: A Blind Test](https://mahimai.ca/blog/full-duplex-vs-cascade-voice-agent)<br><sub>Oct 2026</sub>
+[What is SIPREC? How to get live call audio into an AI agent](https://mahimai.ca/blog/siprec-explained)<br><sub>Nov 2026</sub>
 <!-- writing ends -->
 
 More on [mahimai.ca/blog](https://mahimai.ca/blog)
@@ -62,17 +54,17 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Post moved: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/50)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
+
+[Cut 28 demo posts, hold 17 kept posts as drafts; SIPREC stays live](https://github.com/mahimailabs/mahimai.blogs/pull/49)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
+
+[Post: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/48)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
+
+[Record what is left for V1 in progress.md](https://github.com/mahimailabs/voicegateway/pull/470)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [Name Sentry transactions by API route and upload console source maps](https://github.com/mahimailabs/voicegateway/pull/468)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Let a verified email with no account accept its pending invitations (decision 0040)](https://github.com/mahimailabs/voicegateway/pull/467)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Add opt-in PostHog product analytics](https://github.com/mahimailabs/voicegateway/pull/466)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Report errors and request timings to Sentry, off by default](https://github.com/mahimailabs/voicegateway/pull/465)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Test the self-hosting guide end to end on Linux and macOS](https://github.com/mahimailabs/voicegateway/pull/464)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Keep the capacity dialog's watched run in the URL](https://github.com/mahimailabs/voicegateway/pull/463)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
