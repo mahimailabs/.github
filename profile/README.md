@@ -54,6 +54,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Name /auth transactions by route and upload console source maps from the image build](https://github.com/mahimailabs/voicegateway/pull/469)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [Post moved: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/50)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
 
 [Cut 28 demo posts, hold 17 kept posts as drafts; SIPREC stays live](https://github.com/mahimailabs/mahimai.blogs/pull/49)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
@@ -63,8 +65,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Record what is left for V1 in progress.md](https://github.com/mahimailabs/voicegateway/pull/470)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Name Sentry transactions by API route and upload console source maps](https://github.com/mahimailabs/voicegateway/pull/468)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Let a verified email with no account accept its pending invitations (decision 0040)](https://github.com/mahimailabs/voicegateway/pull/467)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
