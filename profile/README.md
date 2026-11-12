@@ -54,6 +54,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Add a demo agent with several call shapes](https://github.com/mahimailabs/voicegateway/pull/452)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [Name /auth transactions by route and upload console source maps from the image build](https://github.com/mahimailabs/voicegateway/pull/469)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Post moved: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/50)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
@@ -63,8 +65,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Post: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/48)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
 
 [Record what is left for V1 in progress.md](https://github.com/mahimailabs/voicegateway/pull/470)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Name Sentry transactions by API route and upload console source maps](https://github.com/mahimailabs/voicegateway/pull/468)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
