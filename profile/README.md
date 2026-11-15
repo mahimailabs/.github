@@ -54,6 +54,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[Count Cloud plans in credits and add retention, project and member limits](https://github.com/mahimailabs/voicegateway/pull/473)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[Record the reboot proof, the restore test and SES access in progress.md](https://github.com/mahimailabs/voicegateway/pull/471)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [Show page numbers as one stat strip and keep red for problems](https://github.com/mahimailabs/voicegateway/pull/475)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Add the instance admin role and the console Admin pages](https://github.com/mahimailabs/voicegateway/pull/472)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
@@ -61,10 +65,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Sit the console in an inset panel and add Apple text styles](https://github.com/mahimailabs/voicegateway/pull/474)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Add a demo agent with several call shapes](https://github.com/mahimailabs/voicegateway/pull/452)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Name /auth transactions by route and upload console source maps from the image build](https://github.com/mahimailabs/voicegateway/pull/469)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Post moved: What is SIPREC? How to get live call audio into an AI agent](https://github.com/mahimailabs/mahimai.blogs/pull/50)<br><sub>mahimai.blogs · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
