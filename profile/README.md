@@ -4,14 +4,14 @@
 
 We are the open-source side of [Mahimai AI](https://mahimai.ca). The tools here come out of seven years of putting voice systems into production for enterprises, founders and public-sector teams, and they are used every day by the builders who run them.
 
-<!-- stats starts --><b>12</b> open-source projects · <b>123</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
+<!-- stats starts --><b>12</b> open-source projects · <b>124</b> stars · <b>7</b> packages on PyPI<!-- stats ends -->
 
 ### Products
 
 <!-- projects_products starts -->
 | Project | What it does | Latest | Stars |
 |---|---|---|---|
-| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.1](https://pypi.org/project/voicegateway/)<br><sub>Nov 2026</sub> | ★ 58 |
+| **[voicegateway](https://github.com/mahimailabs/voicegateway)** | Cost tracking, observability and inference routing for voice agents on LiveKit, Pipecat and OpenRTC. | [0.27.1](https://pypi.org/project/voicegateway/)<br><sub>Nov 2026</sub> | ★ 59 |
 | **[openrtc-runtime](https://github.com/mahimailabs/openrtc-runtime)** | Runs many LiveKit voice agents in one Python worker, sharing heavy models instead of loading them per process. | [0.21.0](https://pypi.org/project/openrtc/)<br><sub>Nov 2026</sub> | ★ 11 |
 | **[livekit-plugins-voicemem](https://github.com/mahimailabs/livekit-plugins-voicemem)** | Long-term memory for LiveKit voice agents, backed by PostgreSQL and pgvector. Remembers both what the caller said and what they are like. | [0.2.2](https://pypi.org/project/livekit-plugins-voicemem/)<br><sub>Sep 2026</sub> | ★ 2 |
 | **[shipvoice](https://github.com/mahimailabs/shipvoice)** | Full-stack LiveKit voice agent starter: a Python voice worker, a FastAPI token server and a React frontend, each deployable on its own. | <sub>updated Oct 2026</sub> | ★ 31 |
@@ -54,6 +54,8 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[docs(capacity): README opens with the capacity test and a real run](https://github.com/mahimailabs/voicegateway/pull/480)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [feat(capacity): console report download, answer tail and test by name](https://github.com/mahimailabs/voicegateway/pull/479)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [feat(capacity): report a buyer can read in a minute](https://github.com/mahimailabs/voicegateway/pull/478)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
@@ -63,8 +65,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Photograph every console page into docs/screens](https://github.com/mahimailabs/voicegateway/pull/476)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Count Cloud plans in credits and add retention, project and member limits](https://github.com/mahimailabs/voicegateway/pull/473)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Record the reboot proof, the restore test and SES access in progress.md](https://github.com/mahimailabs/voicegateway/pull/471)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
