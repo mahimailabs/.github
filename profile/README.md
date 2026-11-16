@@ -54,6 +54,10 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 
 #### Recently merged
 <!-- merged starts -->
+[feat(capacity): console report download, answer tail and test by name](https://github.com/mahimailabs/voicegateway/pull/479)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
+[feat(capacity): report a buyer can read in a minute](https://github.com/mahimailabs/voicegateway/pull/478)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
+
 [feat(capacity): one-command capacity test with HTML, Markdown and JSON reports](https://github.com/mahimailabs/voicegateway/pull/477)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Photograph every console page into docs/screens](https://github.com/mahimailabs/voicegateway/pull/476)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
@@ -61,10 +65,6 @@ More on [mahimai.ca/blog](https://mahimai.ca/blog)
 [Count Cloud plans in credits and add retention, project and member limits](https://github.com/mahimailabs/voicegateway/pull/473)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 
 [Record the reboot proof, the restore test and SES access in progress.md](https://github.com/mahimailabs/voicegateway/pull/471)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Show page numbers as one stat strip and keep red for problems](https://github.com/mahimailabs/voicegateway/pull/475)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
-
-[Add the instance admin role and the console Admin pages](https://github.com/mahimailabs/voicegateway/pull/472)<br><sub>voicegateway · Nov 2026 · @mahimairaja</sub>
 <!-- merged ends -->
 
 Contributions are welcome in every repository.
